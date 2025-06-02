@@ -11,9 +11,6 @@
   "dependencies": {
     "@prisma/client": "^6.8.2",
     "lucide-react": "^0.511.0",
-    "msnodesqlv8": "^4.5.0",
-    "mssql": "^11.0.1",
-    "mysql2": "^3.14.1",
     "next": "15.3.2",
     "prisma": "^6.8.2",
     "react": "^19.0.0",
